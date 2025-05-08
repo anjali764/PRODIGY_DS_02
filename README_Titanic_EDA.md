@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/469a10f5-635d-47d3-83be-03783f201e0e)
+
+
+
 # 📊 Titanic Dataset - Exploratory Data Analysis (EDA)
 
 This project performs an exploratory data analysis (EDA) on the famous **Titanic dataset**. The goal is to understand the distribution of various features (like age, gender, and survival status), uncover patterns, and visualize insights using different plots such as bar charts and histograms.
